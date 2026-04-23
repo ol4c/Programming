@@ -1,0 +1,1 @@
+{"name":"Local: lcssubsequence","url":"c:\\Users\\Admin\\Desktop\\Programming\\Beta Programming\\lcssubsequence.cpp","tests":[{"id":1776760719742,"input":"ABCDGH\nAEDFHR","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Desktop\\Programming\\Beta Programming\\lcssubsequence.cpp","group":"local","local":true}
